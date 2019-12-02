@@ -1,7 +1,7 @@
 # Deep_learning_Keras_advanced
 
 
-Testing how to solve a variety of problems using the versatile Keras functional API. 
+Solving a variety of problems using the versatile Keras functional API. 
 
 Starting with simple, multi-layer dense networks and continue on to more complicated architectures. 
 
